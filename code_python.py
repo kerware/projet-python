@@ -17,8 +17,7 @@ def bad_sum(a, b, c):
     """
     return a + b
 
-def emptyFunction():
-    return
+
     
 def long_method_with_many_responsibilities(user, password, host, port, timeout, use_ssl, retries, debug):
     """
